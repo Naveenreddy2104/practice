@@ -1,0 +1,55 @@
+Jira beginning -
+It is a project management tool for track and manage their work
+Planning and schduling tasks
+tracking progress and reporting on results
+It is a powerful tool that helps you to be stay organised and on track 
+In Jira 
+
+we can create a project 
+Create some tasks related to project
+Each and every task has some issues
+Each issue is assigned to team members
+Team members will have due date to that particular issues and those issues are linked with another issues
+So that everyone can stay up to date on development 
+
+
+Jira has wides range of reporting and cisualization tools and can track the progress
+	-completed tasks
+	-In progress taskes
+Generate Report - Status of individual tasks 
+
+Benefits :
+Wide range of tools and technologies
+Customization as per project requirment like custom fields, work flows, dashboards
+Helps to interact with different project management tools , version control system , Devolpemt tools
+
+Key features - 
+We can create a project
+cretae workflows
+assign tasks
+track progress
+All at one place
+
+We can see how our team is doing and make important decisions about where to focus your efforts.
+
+
+How to use jira software:
+
+Sign up
+Setup about our project team type
+Add project details (change type)
+Add templates(kanban , scrum , Bug Tracking)
+Add Name of the team
+Slect useful tools
+Invite your team members
+Roadmap is ready
+Now we create issues(tasks) in board
+divide the issues as TODO Progress and Done
+Assign to your team members
+Explore apps for better usage
+Create EPic - task for client ask
+
+Team member can be 
+Task assigned to him 
+Due date 
+priority of task
